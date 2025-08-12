@@ -4,4 +4,4 @@
 ### DC:swenzyim
 
 **Hatalar İçin Discord Sunucumuza Gelebilirsiniz**
-[discord.gg/vsc](https://www.discord.gg/siyahbeyaz)
+[discord.gg/siyahbeyaz](https://www.discord.gg/siyahbeyaz)
