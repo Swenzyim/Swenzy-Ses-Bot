@@ -1,0 +1,10 @@
+{
+    "token": "bot-token",
+    "guildId": "sunucu-id",
+    "voiceChannelId": "ses-id",
+    "activity": [
+        { "name": "www.youtube.com/@swenzyimm", "type": "LISTENING" },
+        { "name": "discord.gg/siyahbeyaz", "type": "PLAYING" },
+        { "name": "www.youtube.com/@swenzyimm", "type": "WATCHING" }
+    ]
+}
