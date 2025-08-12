@@ -1,6 +1,5 @@
 ### Kurulum Yapmak İçin kurulum.bat Dosyasını Çalıştırmanız Yeterli Olucaktır
 ## Botu Başlatmak İçin başlat.bat Dosyasını Çalıştırmanız Yeterli Olucaktır.
-##### İzinsiz paylaşılması yasaktır. DC:has.dev
 
 ### DC:swenzyim
 
