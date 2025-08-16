@@ -10,4 +10,4 @@
 ### DC:swenzyim
 
 **Hatalar İçin Discord Sunucumuza Gelebilirsiniz**
-[discord.gg/siyahbeyaz](https://www.discord.gg/siyahbeyaz)
+[Discord Sunucum](https://www.discord.gg/react)
